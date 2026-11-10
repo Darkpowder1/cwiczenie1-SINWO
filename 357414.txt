@@ -1,2 +1,3 @@
 zupelnie nowe zmiany na nowym branchu
 nowa zawartosc na main
+zmiana widoczna w gui
