@@ -1,4 +1,2 @@
 zupelnie nowe zmiany na nowym branchu
 nowa zawartosc na main
-
-zmiany w istniejacym pliku
